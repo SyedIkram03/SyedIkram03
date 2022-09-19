@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an enthusiastic Coder and Front-end web developer , and I enjoy using my skills to contribute to the exciting technological advances that happen every day around me .I have a passion for developing things, but on the side, I also enjoy art. I'm also a Tech-Enthsiast,who is intrested in learning about technology.I love to make people happy.
+
 <!--
 **SyedIkram03/SyedIkram03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
